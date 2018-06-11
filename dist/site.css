@@ -1,0 +1,11 @@
+body {
+    background-color:#DBF1EA;
+}
+
+.slogan-steps  .media-body {
+    max-width: 210px;
+}
+
+.slogan-steps h4 {
+    line-height: 30px;
+}
