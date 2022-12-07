@@ -9,7 +9,7 @@
   "author": "Davide Rossetto <davide.ross93@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.18.2",
     "minimist": "^1.2.0"
   }
 }
